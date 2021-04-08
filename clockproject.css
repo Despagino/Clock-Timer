@@ -1,0 +1,41 @@
+body {
+  background: url("https://redlotusletter.com/wp-content/uploads/2013/01/wall-clock-1024x512.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+h1 {
+  color:white;
+}
+
+
+.time {
+  height: 300px;
+  width: 300px;
+  border: 5px solid black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  border-radius: 50%;
+  background-color: #DBE6AF;
+}
+
+
+#time {
+  text-align: center;
+  position:relative;
+  top: 70px;
+  font-size: 4rem;
+  
+}
+.myInput {
+  text-align: center;
+  margin-top: 20px;
+}
+button {
+  background-color: lightgray;
+}
+input {
+  width:5%;
+}
